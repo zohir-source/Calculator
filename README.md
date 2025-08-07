@@ -45,3 +45,7 @@ Tampilan kalkulator terdiri dari:
 
 - **Layar Tampilan** di bagian atas
 - **Tombol-tombol** sebagai berikut:
+
+## Informasi kontak
+Email: zedzohir23@gmail.com
+Instagram: @itsalter23
